@@ -1,7 +1,7 @@
 {
   "responseSuccessful": true,
   "responseBody":{
-    "latest_version": "1.2.2",
+    "latest_version": "1.2.3",
     "force_update": true
   },
   "inherit": true
